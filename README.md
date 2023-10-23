@@ -31,10 +31,6 @@ Use to create a Readme Generator that will take in user input to create a nice a
 
 Using Npm inquirer8.2.4
 
-## Usage:
-
-Use to make a professional readme requiring user input
-
 
 ## Credits:
 
@@ -50,14 +46,6 @@ Mit License,Apache License 2.0,Eclipse Public License 2.0,Boost Software License
 Tested Badges from exporting and tested badges with a wesbite
 
 Video Link - https://watch.screencastify.com/v/er96bSeanCrlVwM0Q2iw
-
-## License:
-
-Mit License
-
-## Tests:
-
-Tested with inhouse badges vs badges directly.
 
 
 ## Questions:

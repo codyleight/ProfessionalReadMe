@@ -4,8 +4,6 @@
 ## Description:
 
 -This project showcases our learned skills in using node and installing specific npm packaging to get a desired result with inquirer
-
-<h1 style="border-bottom: none;"># Readme Generator!  <span style="float: right;">![Static Badge](https://img.shields.io/badge/Mit%20License-blue)</span>
     
 ## Description:
 

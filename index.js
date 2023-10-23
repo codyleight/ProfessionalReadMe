@@ -87,7 +87,7 @@ Email: [${response.questions1}](${response.questions1})
  
  
  
- \n`, note =>  note ? console.error(note) : console.log('Professional ReadMe Created!'))   
+ \n`, note =>  note ? console.error(note) : console.log('Professional ReadMe Created!'))   //if there was any errors writing this we will console log it out, else we console log out that we have sucesfully created our readme!
 }
 
 
@@ -125,7 +125,7 @@ function init() { //on running our script init is invoked on line 152
             type: 'checkbox', //here we use a checkbox as we want to select specific licenses without the user having to recall them.
             message: questions[6],
             name: 'license',
-            choices: ['Mit License', 'Apache License 2.0', 'Eclipse Public License 2.0', 'Boost Software License 1.0', 'GNU General Public License v3.0']
+            choices: ['Mit License', 'Apache License 2.0', 'Eclipse Public License 2.0', 'Boost Software License 1.0', 'GNU General Public License v3.0'] //we selected 5 of the more commonly used licenses, could add more options if we need to however there was not much direction on this.
           },
           {
             type: 'input',

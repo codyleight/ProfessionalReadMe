@@ -41,7 +41,7 @@ function writeToFile(response) {
 
 console.log(icon); //testing icon array.
 //Start of writing our Readme out depending on user input.
-fs.appendFile('README.md', `# ${response.project}  <span style="float: right;">${icon.join('')}</span>
+fs.appendFile('READMETest.md', `# ${response.project}  <span style="float: right;">${icon.join('')}</span>
     
 ## Description:
 

@@ -2,7 +2,7 @@
     
 ## Description:
 
--This project showcases our learned skills in using node and installing specific npm packaging to get a desired result with inquirer
+-This Project Showcases our newly learned skills in using Node and NPM packages with inquirier
 
 ## Table of Contents:
 
@@ -16,11 +16,11 @@
 
 ## Installation:
 
-To install and run this project, you will need to install Inquirier8.2.4 using NPM
+To use you must install NPM inquirier8.2.4
 
 ## Usage:
 
-Use to create a Readme Generator that will take in user input to create a nice and fast professional readme with badges!
+Use to create a professional readme with user input required
 
 ## Credits:
 
@@ -32,7 +32,7 @@ Mit License,Apache License 2.0,Eclipse Public License 2.0,Boost Software License
 
 ## Tests:
 
-Tested Badges from exporting and tested badges with a wesbite
+Tested badges by exporting as well as tested badges using the badge website
 
 ## Questions:
 
